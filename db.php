@@ -15,5 +15,5 @@ $password = ''; // пароль
 	if (!$conn) {
         die('Could not connect: ' . mysqli_error());
     }
-	// mysqli_query($conn,'m_category' );
+	
 ?>
